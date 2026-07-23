@@ -1,0 +1,16 @@
+node_modules
+**/node_modules
+.git
+.github
+.svelte-kit
+**/.svelte-kit
+build
+**/build
+.turbo
+.vercel
+.continuum
+.claude
+.agents
+.factory
+*.log
+.DS_Store
